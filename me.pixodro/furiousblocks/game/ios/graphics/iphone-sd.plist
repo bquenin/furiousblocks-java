@@ -1,0 +1,2304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+
+            <key>bg.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {320, 480}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{320, 480}</string>
+                <key>spriteSourceSize</key>
+                <string>{320, 480}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{0, 0}, {320, 480}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-blue-compressed-01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{480, 256}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-blue-compressed-02.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{384, 96}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-blue-compressed-03.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{479, 480}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-blue-compressed-04.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{480, 64}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-blue-flash.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{512, 32}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-blue-happy.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{320, 0}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-blue-hover-01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{320, 256}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-blue-hover-02.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{448, 32}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-blue-hover-03.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{416, 64}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-blue-hover-04.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{416, 256}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-blue-idle.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{351, 384}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-blue-land-01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{320, 288}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-blue-land-02.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{448, 288}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-blue-panic-01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{416, 0}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-blue-panic-02.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{319, 480}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-blue-panic-03.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{384, 32}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-blue-panic-04.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{383, 320}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-green-compressed-01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{480, 288}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-green-compressed-02.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{416, 96}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-green-compressed-03.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{384, 256}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-green-compressed-04.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{479, 352}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-green-flash.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{448, 96}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-green-happy.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{512, 64}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-green-hover-01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{447, 480}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-green-hover-02.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{320, 128}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-green-hover-03.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{352, 288}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-green-hover-04.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{351, 352}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-green-idle.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{416, 224}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-green-land-01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{384, 288}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-green-land-02.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{320, 32}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-green-panic-01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{447, 384}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-green-panic-02.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{384, 64}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-green-panic-03.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{383, 416}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-green-panic-04.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{255, 480}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-purple-compressed-01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{447, 352}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-purple-compressed-02.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{352, 192}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-purple-compressed-03.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{352, 224}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-purple-compressed-04.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{415, 352}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-purple-flash.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{352, 256}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-purple-happy.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{383, 384}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-purple-hover-01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{480, 224}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-purple-hover-02.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{320, 64}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-purple-hover-03.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{352, 160}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-purple-hover-04.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{447, 416}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-purple-idle.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{351, 448}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-purple-land-01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{351, 480}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-purple-land-02.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{480, 32}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-purple-panic-01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{352, 32}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-purple-panic-02.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{320, 224}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-purple-panic-03.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{448, 64}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-purple-panic-04.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{415, 384}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-red-compressed-01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{352, 64}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-red-compressed-02.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{448, 160}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-red-compressed-03.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{383, 352}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-red-compressed-04.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{320, 160}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-red-flash.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{383, 480}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-red-happy.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{416, 288}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-red-hover-01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{415, 480}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-red-hover-02.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{479, 448}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-red-hover-03.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{448, 224}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-red-hover-04.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{384, 0}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-red-idle.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{448, 192}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-red-land-01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{479, 384}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-red-land-02.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{479, 320}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-red-panic-01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{351, 416}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-red-panic-02.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{415, 448}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-red-panic-03.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{352, 0}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-red-panic-04.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{512, 96}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-yellow-compressed-01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{320, 96}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-yellow-compressed-02.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{480, 160}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-yellow-compressed-03.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{351, 320}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-yellow-compressed-04.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{416, 192}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-yellow-flash.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{480, 96}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-yellow-happy.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{416, 128}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-yellow-hover-01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{480, 128}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-yellow-hover-02.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{384, 128}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-yellow-hover-03.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{287, 480}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-yellow-hover-04.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{480, 192}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-yellow-idle.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{415, 320}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-yellow-land-01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{383, 448}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-yellow-land-02.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{448, 128}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-yellow-panic-01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{352, 96}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-yellow-panic-02.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{415, 416}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-yellow-panic-03.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{416, 32}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>blocks-yellow-panic-04.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{384, 160}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>cursor-01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{2, 2}, {83, 51}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{83, 51}</string>
+                <key>spriteSourceSize</key>
+                <string>{87, 55}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{172, 480}, {83, 51}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>cursor-02.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{1, 1}, {85, 53}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{85, 53}</string>
+                <key>spriteSourceSize</key>
+                <string>{87, 55}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{87, 480}, {85, 53}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>cursor-03.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {87, 55}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{87, 55}</string>
+                <key>spriteSourceSize</key>
+                <string>{87, 55}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{0, 480}, {87, 55}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>garbage-bottom.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{480, 0}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>garbage-left-bottom.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{447, 448}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>garbage-left.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{479, 416}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>garbage-plain.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{416, 160}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>garbage-right-bottom.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{384, 224}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>garbage-right.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{512, 128}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>garbage-single-flash.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{447, 320}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>garbage-single.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{448, 0}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>garbage-top-bottom.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{320, 192}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>garbage-top-left-bottom.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{511, 320}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>garbage-top-left.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{512, 0}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>garbage-top-right-bottom.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{384, 192}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>garbage-top-right.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{448, 256}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+            <key>garbage-top.png</key>
+            <dict>
+                <key>aliases</key>
+                <array>
+
+                </array>
+                <key>spriteColorRect</key>
+                <string>{{0, 0}, {32, 32}}</string>
+                <key>spriteOffset</key>
+                <string>{0, -0}</string>
+                <key>spriteSize</key>
+                <string>{32, 32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32, 32}</string>
+                <key>spriteTrimmed</key>
+                <true/>
+                <key>textureRect</key>
+                <string>{{352, 128}, {32, 32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>version</key>
+            <string>1.5.5</string>
+            <key>format</key>
+            <integer>3</integer>
+            <key>size</key>
+            <string>{1024, 1024}</string>
+            <key>name</key>
+            <string>iphone-sd.zwd</string>
+            <key>premultipliedAlpha</key>
+            <false/>
+            <key>target</key>
+            <dict>
+                <key>name</key>
+                <string>default</string>
+                <key>textureFileName</key>
+                <string>iphone-sd</string>
+                <key>textureFileExtension</key>
+                <string>.png</string>
+                <key>coordinatesFileName</key>
+                <string>iphone-sd</string>
+                <key>coordinatesFileExtension</key>
+                <string>.plist</string>
+                <key>premultipliedAlpha</key>
+                <false/>
+            </dict>
+        </dict>
+    </dict>
+</plist>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>me.pixodro.furiousblocks</groupId>
+        <artifactId>me.pixodro.furiousblocks.game</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>me.pixodro.furiousblocks.game.common</artifactId>
+    <name>Furious Blocks: Game: Common</name>
+
+    <dependencies>
+        <dependency>
+            <groupId>me.pixodro.furiousblocks</groupId>
+            <artifactId>me.pixodro.furiousblocks.core</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>me.pixodro.furiousblocks</groupId>
+            <artifactId>me.pixodro.furiousblocks.ai</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.badlogic.gdx</groupId>
+            <artifactId>gdx</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.badlogic.gdx</groupId>
+            <artifactId>gdx-openal</artifactId>
+        </dependency>
+    </dependencies>
+</project>

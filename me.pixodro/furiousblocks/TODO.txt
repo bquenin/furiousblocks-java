@@ -1,0 +1,19 @@
+- Tutorial screen
+- Fix garbage falling bug
+- Sfx
+- Title screen
+- Game won/over
+- Credits
+- Optimize AI by hashing the panel situation and determine if something has changed
+- Fix AI
+- Garbage stack list
+- Games won (manches)
+
+- IPhone version ?
+- Monothread/HTML5 version (facebook) ?
+
+- Web site ?
+
+- Leaderboard
+- Network multiplayer
+- TWL menu to create games ?

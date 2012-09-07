@@ -1,0 +1,9 @@
+#define __TBB_VERSION_STRINGS \
+"TBB: BUILD_HOST		Bertrand-Quenins-MacBook-Pro (i386)" ENDL \
+"TBB: BUILD_OS		Mac OS X version 10.7.3" ENDL \
+"TBB: BUILD_KERNEL	Darwin Kernel Version 11.3.0: Thu Jan 12 18:47:41 PST 2012; root:xnu-1699.24.23~1/RELEASE_X86_64" ENDL \
+"TBB: BUILD_GCC		gcc version 4.2.1 (Based on Apple Inc. build 5658) (LLVM build 2336.9.00)" ENDL \
+"TBB: BUILD_TARGET	intel64 on cc4.2.1_os10.7.3" ENDL \
+"TBB: BUILD_COMMAND	g++ -O2 -DUSE_PTHREAD -m64 -fPIC -D__TBB_BUILD=1 -Wall -Wno-non-virtual-dtor -I../../src -I../../src/rml/include -I../../include" ENDL \
+
+#define __TBB_DATETIME "Tue Apr 24 23:17:23 UTC 2012"

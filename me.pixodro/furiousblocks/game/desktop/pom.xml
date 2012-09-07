@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>me.pixodro.furiousblocks</groupId>
+        <artifactId>me.pixodro.furiousblocks.game</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>me.pixodro.furiousblocks.game.desktop</artifactId>
+    <name>Furious Blocks: Game: Desktop</name>
+    <dependencies>
+        <dependency>
+            <groupId>me.pixodro.furiousblocks</groupId>
+            <artifactId>me.pixodro.furiousblocks.game.common</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.badlogic.gdx</groupId>
+            <artifactId>gdx</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.badlogic.gdx</groupId>
+            <artifactId>gdx-natives</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.badlogic.gdx</groupId>
+            <artifactId>gdx-backend-lwjgl</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.badlogic.gdx</groupId>
+            <artifactId>gdx-backend-lwjgl-natives</artifactId>
+        </dependency>
+    </dependencies>
+</project>
