@@ -3,6 +3,7 @@ package me.pixodro.furiousblocks.game.screen;
 import com.badlogic.gdx.Game;
 import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.g2d.NinePatch;
+import com.badlogic.gdx.utils.Align;
 import me.pixodro.furiousblocks.core.FuriousBlocksCore;
 import me.pixodro.furiousblocks.core.FuriousBlocksCoreDefaults;
 import me.pixodro.furiousblocks.core.FuriousBlocksCoreListener;
@@ -313,7 +314,7 @@ public class TutorialScreen extends AbstractPanelScreen implements FuriousBlocks
       nine.draw(batcher, 30, 522, 360, 160);
 
       // Render Text
-      assets.coop32.drawWrapped(batcher, textToType.getText(), 30 + 8, 522 + 160 - 8, 360 - 8);
+      assets.coop32.draw(batcher, textToType.getText(), 30 + 8, 522 + 160 - 8, 360 - 8, Align.right, true);
 
       script.execute(stateTime);
     }

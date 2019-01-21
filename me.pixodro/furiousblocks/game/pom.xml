@@ -14,7 +14,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>android</module>
+        <!--<module>android</module>-->
         <module>common</module>
         <module>desktop</module>
     </modules>

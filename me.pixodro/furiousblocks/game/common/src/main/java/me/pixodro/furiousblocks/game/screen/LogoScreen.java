@@ -132,9 +132,9 @@ public class LogoScreen extends AbstractScreen {
 
     batcher.begin();
     batcher.draw(texture, 0, 0, 480, 800);
-    assets.joy32.setScale(2);
+//    assets.joy32.setScale(2);
     drawStringScreenCentered(assets.joy32, "pixodrome", 480, 800);
-    assets.joy32.setScale(1);
+//    assets.joy32.setScale(1);
     batcher.end();
   }
 

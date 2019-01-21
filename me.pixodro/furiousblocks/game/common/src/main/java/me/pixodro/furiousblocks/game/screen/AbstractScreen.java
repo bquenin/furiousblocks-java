@@ -7,6 +7,7 @@ import com.badlogic.gdx.graphics.Camera;
 import com.badlogic.gdx.graphics.FPSLogger;
 import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.graphics.g2d.BitmapFont;
+import com.badlogic.gdx.graphics.g2d.GlyphLayout;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import me.pixodro.furiousblocks.game.Assets;
 
@@ -17,6 +18,7 @@ abstract class AbstractScreen implements Screen {
   final Camera camera = new OrthographicCamera(480, 800);
   final Game game;
   float stateTime;
+  final GlyphLayout layout = new GlyphLayout();
 
   AbstractScreen(final Game game, final Assets assets) {
     this.game = game;
@@ -42,16 +44,14 @@ abstract class AbstractScreen implements Screen {
   public void resize(final int width, final int height) {
   }
 
-  final BitmapFont.TextBounds drawStringCentered(BitmapFont font, final String str, final int screenWidth, final int y) {
-    final BitmapFont.TextBounds bounds = font.getBounds(str);
-    font.draw(batcher, str, (screenWidth - bounds.width) / 2, y);
-    return bounds;
+  final void drawStringCentered(BitmapFont font, final String str, final int screenWidth, final int y) {
+    layout.setText(font, str);
+    font.draw(batcher, str, (screenWidth - layout.width) / 2, y);
   }
 
-  final BitmapFont.TextBounds drawStringScreenCentered(BitmapFont font, final String str, final int screenWidth, final int screenHeight) {
-    final BitmapFont.TextBounds bounds = font.getBounds(str);
-    font.draw(batcher, str, (screenWidth - bounds.width) / 2, (screenHeight + bounds.height) / 2);
-    return bounds;
+  final void drawStringScreenCentered(BitmapFont font, final String str, final int screenWidth, final int screenHeight) {
+    layout.setText(font, str);
+    font.draw(batcher, str, (screenWidth - layout.width) / 2, (screenHeight + layout.height) / 2);
   }
 
   //  private void prioritizedPlay(final int source, final Sound sound) {

@@ -1,7 +1,7 @@
 package me.pixodro.furiousblocks.game.desktop;
 
-import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
-import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
+import com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;
+import com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;
 import me.pixodro.furiousblocks.game.FuriousBlocksGame;
 
 /**
@@ -11,14 +11,13 @@ import me.pixodro.furiousblocks.game.FuriousBlocksGame;
 public class DesktopApplication {
   public static void main(final String[] args) {
     try {
-      final LwjglApplicationConfiguration applicationConfiguration = new LwjglApplicationConfiguration();
-      applicationConfiguration.vSyncEnabled = true;
-      applicationConfiguration.useCPUSynch = false;
-      applicationConfiguration.fullscreen = false;
-      applicationConfiguration.title = "Furious Blocks";
-      applicationConfiguration.width = 480;
-      applicationConfiguration.height = 800;
-      new LwjglApplication(new FuriousBlocksGame(), applicationConfiguration);
+      final Lwjgl3ApplicationConfiguration applicationConfiguration = new Lwjgl3ApplicationConfiguration();
+      applicationConfiguration.useVsync(true);
+//      applicationConfiguration.useCPUSynch = false;
+//      applicationConfiguration.fullscreen = false;
+      applicationConfiguration.setTitle("Furious Blocks");
+      applicationConfiguration.setWindowedMode(480, 800);
+      new Lwjgl3Application(new FuriousBlocksGame(), applicationConfiguration);
     } catch (final Exception e) {
       e.printStackTrace();
       System.exit(1);

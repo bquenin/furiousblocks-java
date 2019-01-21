@@ -76,26 +76,26 @@ public class Assets extends AssetManager {
   private TextureRegion[] PURPLE_AIRBOUNCING;
 
   // Endless animations
-  private Animation YELLOW_PANICKING;
-  private Animation BLUE_PANICKING;
-  private Animation RED_PANICKING;
-  private Animation GREEN_PANICKING;
-  private Animation PURPLE_PANICKING;
+  private Animation<TextureRegion> YELLOW_PANICKING;
+  private Animation<TextureRegion> BLUE_PANICKING;
+  private Animation<TextureRegion> RED_PANICKING;
+  private Animation<TextureRegion> GREEN_PANICKING;
+  private Animation<TextureRegion> PURPLE_PANICKING;
 
-  private Animation YELLOW_COMPRESSING;
-  private Animation BLUE_COMPRESSING;
-  private Animation RED_COMPRESSING;
-  private Animation GREEN_COMPRESSING;
-  private Animation PURPLE_COMPRESSING;
+  private Animation<TextureRegion> YELLOW_COMPRESSING;
+  private Animation<TextureRegion> BLUE_COMPRESSING;
+  private Animation<TextureRegion> RED_COMPRESSING;
+  private Animation<TextureRegion> GREEN_COMPRESSING;
+  private Animation<TextureRegion> PURPLE_COMPRESSING;
 
-  private Animation YELLOW_BLINKING;
-  private Animation BLUE_BLINKING;
-  private Animation RED_BLINKING;
-  private Animation GREEN_BLINKING;
-  private Animation PURPLE_BLINKING;
-  private Animation GARBAGE_BLINKING;
+  private Animation<TextureRegion> YELLOW_BLINKING;
+  private Animation<TextureRegion> BLUE_BLINKING;
+  private Animation<TextureRegion> RED_BLINKING;
+  private Animation<TextureRegion> GREEN_BLINKING;
+  private Animation<TextureRegion> PURPLE_BLINKING;
+  private Animation<TextureRegion> GARBAGE_BLINKING;
 
-  public Animation CURSOR;
+  public Animation<TextureRegion> CURSOR;
 
   // Musics
   public Music harmonic;

@@ -3,7 +3,7 @@ package me.pixodro.furiousblocks.game.screen;
 import com.badlogic.gdx.graphics.g2d.Animation;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
 
-public class NonLoopingAnimation extends Animation {
+public class NonLoopingAnimation extends Animation<TextureRegion> {
   private final float creationTime;
 
   public NonLoopingAnimation(final float creationTime, float frameDuration, TextureRegion... keyFrames) {

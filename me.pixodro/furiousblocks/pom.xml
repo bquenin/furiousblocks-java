@@ -14,7 +14,7 @@
         <netty.version>3.2.4.Final</netty.version>
         <protobuf.version>2.4.1</protobuf.version>
         <protostuff.version>1.0.1</protostuff.version>
-        <gdx.version>0.9.4</gdx.version>
+        <gdx.version>1.9.9</gdx.version>
         <android.version>2.2_r3</android.version>
     </properties>
 
@@ -53,33 +53,24 @@
 
             <!--gdx-->
             <dependency>
-                <groupId>com.badlogic.gdx</groupId>
+                <groupId>com.badlogicgames.gdx</groupId>
                 <artifactId>gdx</artifactId>
                 <version>${gdx.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.badlogic.gdx</groupId>
-                <artifactId>gdx-natives</artifactId>
+                <groupId>com.badlogicgames.gdx</groupId>
+                <artifactId>gdx-platform</artifactId>
+                <version>${gdx.version}</version>
+                <classifier>natives-desktop</classifier>
+            </dependency>
+            <dependency>
+                <groupId>com.badlogicgames.gdx</groupId>
+                <artifactId>gdx-backend-lwjgl3</artifactId>
                 <version>${gdx.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.badlogic.gdx</groupId>
-                <artifactId>gdx-backend-lwjgl</artifactId>
-                <version>${gdx.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>com.badlogic.gdx</groupId>
-                <artifactId>gdx-backend-lwjgl-natives</artifactId>
-                <version>${gdx.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>com.badlogic.gdx</groupId>
+                <groupId>com.badlogicgames.gdx</groupId>
                 <artifactId>gdx-backend-android</artifactId>
-                <version>${gdx.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>com.badlogic.gdx</groupId>
-                <artifactId>gdx-openal</artifactId>
                 <version>${gdx.version}</version>
             </dependency>
 
@@ -129,11 +120,10 @@
     </build>
 
     <modules>
-        <module>client</module>
+        <!--<module>client</module>-->
         <module>core</module>
         <module>server</module>
         <module>ai</module>
         <module>game</module>
     </modules>
 </project>
-

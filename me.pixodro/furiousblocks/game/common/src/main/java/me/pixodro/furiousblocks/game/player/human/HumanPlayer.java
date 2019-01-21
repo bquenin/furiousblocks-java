@@ -110,6 +110,11 @@ public class HumanPlayer extends Player implements InputProcessor {
     return true;
   }
 
+  @Override
+  public boolean mouseMoved(int i, int i1) {
+    return false;
+  }
+
   /**
    * Called when a finger was lifted or a mouse button was released. The button parameter will be {@link com.badlogic.gdx.Input.Buttons#LEFT} on
    * Android.
@@ -159,18 +164,6 @@ public class HumanPlayer extends Player implements InputProcessor {
    */
   @Override
   public boolean keyTyped(final char character) {
-    return false;  //To change body of implemented methods use File | Settings | File Templates.
-  }
-
-  /**
-   * Called when the mouse was moved without any buttons being pressed. Will not be called on Android.
-   *
-   * @param x The x coordinate
-   * @param y The y coordinate
-   * @return whether the input was processed
-   */
-  @Override
-  public boolean touchMoved(final int x, final int y) {
     return false;  //To change body of implemented methods use File | Settings | File Templates.
   }
 
